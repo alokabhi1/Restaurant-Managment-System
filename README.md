@@ -4,6 +4,7 @@ A Java-based Restaurant Management System that allows Admins to manage the menu,
 ****FEATURES****
 
 **Admin:**
+
 1.Register and login as Admin.
 
 2.Add or remove menu items.
@@ -13,6 +14,7 @@ A Java-based Restaurant Management System that allows Admins to manage the menu,
 4.Edit Admin profile.
 
 **Customer:**
+
 1.Register and login as Customer.
 
 2.View the menu, place orders (dine-in or takeaway).
@@ -24,6 +26,7 @@ A Java-based Restaurant Management System that allows Admins to manage the menu,
 5.Generate order receipt after placing an order with payment method options (Cash or Card).
 
 **Technologies Used:**
+
 1.Java (Object-Oriented Programming)
 
 2.ArrayList, HashSet (Data Structures)
